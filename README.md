@@ -5,6 +5,7 @@ Hi! This is an Excel project that I created for my job. This is a real-world pro
 
 ## About the Project
 Currently, I work as a middle accounts receivable representative in the real estate sphere. I'm responsible for several processes in the company. One of the processes is called late fees. These are charges that tenants receive for overdue rent payments. We work with several clients each of which have own rules and deadlines. Each manager in my team is responsible for one or more clients. We use a third-party website to organize information related to this process, but, in my opinion, it's not quite informative. It doesn't show all the information that I need. The format is also not that convenient. To solve this problem, I decided to create a report in Excel. The idea is simple - I download a table with late fee data from the third-party website and upload it into Excel. Then, the dashboard, which is already in the file, uses formulas, pivot tables, and charts to perform calculations and display all the information I need. 
+
 ![Dashboard Image](https://github.com/LegendaryStarLordHV/Late_Fees_Excel_Project/assets/43511883/50e01209-4241-4ecd-b3b6-6ab7958fc30d)
 
 
